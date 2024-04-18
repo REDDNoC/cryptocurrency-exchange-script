@@ -1,5 +1,5 @@
 
-## Discover the Power of Codono's Cryptocurrency Exchange Script
+## Discover the Power of CryptoBeam's Cryptocurrency Exchange Script
 
 <img src="assets/crypto-exchange.webp?raw=true" alt="Cryptocurrency Exchange Script" title="Cryptocurrency Exchange Script" style="max-width:400px">
 
